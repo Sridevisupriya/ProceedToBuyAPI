@@ -1,0 +1,9 @@
+C:\Users\Devi\Source\Repos\VehicleServiceDocker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Devi\Source\Repos\VehicleServiceDocker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Devi\Source\Repos\VehicleServiceDocker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Devi\Source\Repos\VehicleServiceDocker\obj\Debug\netcoreapp3.1\VehicleServiceDocker.csprojAssemblyReference.cache
+C:\Users\Devi\Source\Repos\VehicleServiceDocker\obj\Debug\netcoreapp3.1\VehicleServiceDocker.AssemblyInfoInputs.cache
+C:\Users\Devi\Source\Repos\VehicleServiceDocker\obj\Debug\netcoreapp3.1\VehicleServiceDocker.AssemblyInfo.cs
+C:\Users\Devi\Source\Repos\VehicleServiceDocker\obj\Debug\netcoreapp3.1\VehicleServiceDocker.RazorTargetAssemblyInfo.cache
+C:\Users\Devi\Source\Repos\VehicleServiceDocker\obj\Debug\netcoreapp3.1\staticwebassets\VehicleServiceDocker.StaticWebAssets.Manifest.cache
+C:\Users\Devi\Source\Repos\VehicleServiceDocker\obj\Debug\netcoreapp3.1\staticwebassets\VehicleServiceDocker.StaticWebAssets.xml
