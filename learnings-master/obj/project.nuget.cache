@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pDjsoe+3CMj+38JJUsNM/hx8514cEMRADzspbSJ2u8yXVbCmkWqAkjOp3aJWdcTuBF93PXY15EVPeoC9u2NBNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Devi\\Source\\Repos\\learnings-master\\Dockersampleconfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Devi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
